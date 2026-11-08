@@ -22,9 +22,14 @@ body{
 
 button{
     display: inline-flexbox;
-    color:rgb(3, 3, 3);
-    height: 50px;
-    width: 100px;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    background-color:rgb(200, 225, 225);
+    font-family:" Gadget" , sans-serif;
+    height: 80px;
+    width: 180px;
 }
 
 h2{
