@@ -66,3 +66,14 @@ h3{
     color: black;
     font-size: 30px;
 }
+footer{
+    font-family:" Gadget" , sans-serif;
+    font-weight: regular;
+    color: black;
+    font-size: 18px;
+    position: absolute;
+    top: 177%;
+    left:80%;
+
+
+}
