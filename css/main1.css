@@ -20,14 +20,11 @@ body{
     position:top-center;
 }
 
-.navbar {
-    display:inline-block;
-    width: 90px;
-    height: 30px;
-    text-decoration: none;
-    text-align: center;
-    font-size: 0px;
-    text-transform: uppercase;
+button{
+    display: inline-flexbox;
+    color:rgb(3, 3, 3);
+    height: 50px;
+    width: 100px;
 }
 
 h2{
